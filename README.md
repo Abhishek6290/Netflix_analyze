@@ -50,14 +50,19 @@ This project dives deep into the Netflix Movies and TV Shows dataset using Pytho
 | 🧮 Pairplot | Clear visual separation of Movies vs TV Shows on duration. |
 
 ---
+🧠 Summary of Findings
+Movies dominate Netflix’s catalog.
+The U.S. is the largest content provider.
+Majority of content is mature (TV-MA, TV-14).
+Recent years (2017–2020) saw a major surge in releases.
+TV Shows mostly last 1–3 seasons.
+No strong relationship between duration and release year.
 
-## 📁 Folder Structure
+---
+✨ Credits
+Dataset: Netflix Titles | Kaggle
 
-```bash
-Netflix-EDA/
-│
-├── netflix_titles.csv         # Original dataset
-├── Netflix_EDA.ipynb          # Jupyter Notebook with full analysis
-├── images/                    # Visualizations (optional)
-├── README.md                  # Project documentation
-└── requirements.txt           # Libraries used
+---
+Abhishek Verma 
+📧Contact: abhishekverma6290@gmail.com 
+🌐LinkedIn: https://www.linkedin.com/in/abhishek-verma-52603a313/
